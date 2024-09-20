@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h3 align="center">A passionate frontend developer from Hyderabad</h3>
-<img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></img>
+<img align="center" alt="coding" width="400" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.21kschool.com%2Fgh%2Fblog%2Fwhat-is-block-coding-for-kids%2F&psig=AOvVaw2znH04FyJTyZlisNp3CfwL&ust=1726918800508000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC1qoa40YgDFQAAAAAdAAAAABAE)"></img>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohdsohailkhan?tab=repositories](https://github.com/mohdsohailkhan?tab=repositories)
 
