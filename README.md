@@ -7,6 +7,7 @@
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT**
 
 - 📫 How to reach me **mdsohailkhan7777@gmail.com**
+- Mobile - 9492983865,8328155426
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
